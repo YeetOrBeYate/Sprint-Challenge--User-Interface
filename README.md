@@ -34,12 +34,12 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
--Semantic html tags have specific tag names that help a programming partner or yourself better understand the markup your trying to make. Instead putting things in divs,
-using semantic tags like header, footer, section, etc help you and other understand at a quick glance the webpage you trying to display.
+-Semantic html tags are specific tag names that help a programming partner or yourself better understand the markup your trying to make. Instead using generic div tags,
+using semantic tags like header, footer, section, etc help you and others understand at a quick glance the webpage you trying to display.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
 
--inline elements can sit next to eachother, while block elements always start on a new line and are by themselves.
+-inline elements can sit next to each other on the same line, while block elements always start on a new line and are by themselves.
 
 3. What are the 4 areas of the box model?
 

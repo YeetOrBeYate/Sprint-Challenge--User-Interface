@@ -206,3 +206,14 @@ background-color: indigo;
 .middle-content .boxes .box10{
 background-color: dodgerblue;
 }
+
+/*animations*/
+
+.box:hover{
+	transform: scale(1.2);
+}
+
+nav a:hover{
+	text-decoration: underline;
+	color: gray;
+}
