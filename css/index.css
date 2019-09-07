@@ -72,13 +72,19 @@ p {
 }
 
 header{
+	border: 1px solid black;
 	display: flex;
 	justify-content: space-between;
 	align-items: flex-end;
 	padding: 20px 0;
 }
 
+.headerImg{
+border: 1px solid black;
+}
+
 nav{
+	border: 1px solid black;
 	width: 80%;
 	display: flex;
 	justify-content: space-around;
